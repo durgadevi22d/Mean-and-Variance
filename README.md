@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
 
+#  Name : DURGADEVI P
+
+#  Register Number : 212223100006
 
 # Aim : 
 
@@ -72,7 +75,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-
 
 # Output : 
 ![image](https://github.com/durgadevi22d/Mean-and-Variance/assets/149987216/cbddcb8c-070d-4840-9953-a63514f6b31d)
