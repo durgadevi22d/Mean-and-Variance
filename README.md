@@ -54,6 +54,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ## Program :
 Developed by : DURGADEVI P
+
 Reg no : 212223100006
 ```
 import numpy as np
